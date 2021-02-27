@@ -2,12 +2,8 @@ VET PET. Ветеринарная клиника.
 
 Github pages - https://webstorybegin.github.io/VetPet/
 
-Адаптив
+Адаптивно отзывчивая верстка. Препроцессоры, начинающий JS, подключение slick-slider и его стилизация, подключение библиотеки jquery, подключение иконочных шрифтов Font Awesome. CSS анимация, slick-slider карусель анимация, работа с неактивными его классами. Стилизация SVG изображений.
 
-HTML\CSS\SASS
-
-JS\Jquery
-
-Тип - online store.
+Тип - landing page.
 
 Мой пятый макет.
